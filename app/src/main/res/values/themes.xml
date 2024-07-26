@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ManHourCalculator" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/burnt_orange</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/burnt_orange</item>
+        <item name="colorSecondary">@color/white</item>
+        <item name="colorOnSecondary">@color/burnt_orange</item>
+    </style>
+
+    <style name="Theme.ManHourCalculator" parent="Base.Theme.ManHourCalculator" />
+</resources>
